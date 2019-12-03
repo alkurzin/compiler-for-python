@@ -1,0 +1,2 @@
+/usr/bin/ar qc liblib.a  CMakeFiles/lib.dir/src/lib/scan.cpp.o CMakeFiles/lib.dir/src/lib/lexer.cpp.o CMakeFiles/lib.dir/src/lib/listToken.cpp.o
+/usr/bin/ranlib liblib.a

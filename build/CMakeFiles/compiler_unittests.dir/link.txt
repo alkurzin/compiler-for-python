@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/compiler_unittests.dir/src/tests/main.cpp.o CMakeFiles/compiler_unittests.dir/src/tests/lexer_unittest.cpp.o CMakeFiles/compiler_unittests.dir/src/tests/listToken_unittest.cpp.o  -o compiler_unittests -rdynamic liblib.a lib/libgtest_main.a lib/libgtest.a -lpthread 

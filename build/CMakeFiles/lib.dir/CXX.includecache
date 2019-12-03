@@ -1,0 +1,92 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/alexey/Рабочий стол/opk/compiler/src/lib/Helper.h
+string
+-
+TypeToken.h
+/home/alexey/Рабочий стол/opk/compiler/src/lib/TypeToken.h
+
+/home/alexey/Рабочий стол/opk/compiler/src/lib/TypeToken.h
+
+/home/alexey/Рабочий стол/opk/compiler/src/lib/lexer.cpp
+lexer.h
+/home/alexey/Рабочий стол/opk/compiler/src/lib/lexer.h
+
+/home/alexey/Рабочий стол/opk/compiler/src/lib/lexer.h
+iostream
+-
+fstream
+-
+cstring
+-
+vector
+-
+listToken.h
+/home/alexey/Рабочий стол/opk/compiler/src/lib/listToken.h
+TypeToken.h
+/home/alexey/Рабочий стол/opk/compiler/src/lib/TypeToken.h
+Helper.h
+/home/alexey/Рабочий стол/opk/compiler/src/lib/Helper.h
+scan.h
+/home/alexey/Рабочий стол/opk/compiler/src/lib/scan.h
+
+/home/alexey/Рабочий стол/opk/compiler/src/lib/listToken.cpp
+iostream
+-
+fstream
+-
+cstring
+-
+listToken.h
+/home/alexey/Рабочий стол/opk/compiler/src/lib/listToken.h
+
+/home/alexey/Рабочий стол/opk/compiler/src/lib/listToken.h
+cstring
+-
+TypeToken.h
+/home/alexey/Рабочий стол/opk/compiler/src/lib/TypeToken.h
+
+/home/alexey/Рабочий стол/opk/compiler/src/lib/scan.cpp
+inttypes.h
+-
+iostream
+-
+errno.h
+-
+cstdlib
+-
+cstdio
+-
+cstring
+-
+FlexLexer.h
+-
+TypeToken.h
+/home/alexey/Рабочий стол/opk/compiler/src/lib/TypeToken.h
+unistd.h
+-
+
+/home/alexey/Рабочий стол/opk/compiler/src/lib/scan.h
+inttypes.h
+-
+iostream
+-
+errno.h
+-
+cstdlib
+-
+cstdio
+-
+cstring
+-
+FlexLexer.h
+-
+unistd.h
+-
+
